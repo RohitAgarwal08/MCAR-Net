@@ -1,0 +1,9 @@
+torch==2.6.0
+monai==1.4.0
+nibabel
+numpy<2
+scikit-learn
+scipy
+medpy
+tqdm
+ptflops==0.7.4
